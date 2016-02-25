@@ -32,6 +32,7 @@
   "homepage": "https://github.com/NewEvolution/nodeqlite#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "moment": "^2.11.2",
     "sqlite3": "^3.1.1"
   }
 }
