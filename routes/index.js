@@ -3,6 +3,6 @@
 const router = require('express').Router();
 const salesR = require('./sales');
 
-router.use('/sales', salesR);
+router.use('/total-sales', salesR);
 
 module.exports = router;
